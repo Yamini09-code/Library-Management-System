@@ -1,4 +1,4 @@
-# Library Management System using SQL Project --P2
+# Library Management System Project using SQL 
 
 ## Project Overview
 
@@ -503,7 +503,7 @@ This project demonstrates the application of SQL skills in creating and managing
 
 1. **Clone the Repository**: Clone this repository to your local machine.
    ```sh
-   git clone https://github.com/najirh/Library-System-Management---P2.git
+   git clone https://github.com/Yamini09-code/Library-Management-System.git
    ```
 
 2. **Set Up the Database**: Execute the SQL scripts in the `database_setup.sql` file to create and populate the database.
@@ -512,7 +512,7 @@ This project demonstrates the application of SQL skills in creating and managing
 
 ## Author - Yamini
 
-This project showcases SQL skills essential for database management and analysis. Connect with me through the following channels:
+This project showcases my SQL skills, essential for database management and analysis. Let's connect:
 
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/yamini-91b6bb1b9/)
 
